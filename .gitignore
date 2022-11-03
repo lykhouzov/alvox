@@ -1,0 +1,7 @@
+/target
+/data
+*.bkp
+*.bkp/
+.vscode/
+res/*
+var/
